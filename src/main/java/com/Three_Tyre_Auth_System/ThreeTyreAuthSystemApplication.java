@@ -1,4 +1,4 @@
-package com.__tire_auth.Three_Tyre_Auth_System;
+package com.Three_Tyre_Auth_System;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
