@@ -21,3 +21,7 @@ spring:
 
 server:
   port: ${PORT}
+
+jwt:
+  secret: mySuperSecretJwtKeyThatIsAtLeast32CharactersLong123
+  expiration: 300000 # 5 Minutes

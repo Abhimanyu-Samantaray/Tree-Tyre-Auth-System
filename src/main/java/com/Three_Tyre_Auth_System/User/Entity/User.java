@@ -22,7 +22,7 @@ public class User {
     private String password;
 
     @Column(nullable = false, unique = true, length = 10)
-    private String mobile_no;
+    private String mobileNo;
 
     @Column(nullable = false)
     private String first_name;
